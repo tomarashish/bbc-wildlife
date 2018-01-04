@@ -1,4 +1,4 @@
-# bbc-wildlife
+# BBC Wildlife Ontology Graph Based Representation
 
 ## Background
 The BBC created a lightweight ontology (available from http://purl.org/ontology/wo/ ) for publishing data about all forms of biological taxa, including phyla, families, and species. The terms in this ontology allow data to be published about:
